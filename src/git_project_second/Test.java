@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("update");
 		System.out.println("remote update from github.com");
 		System.out.println("australia");
+		System.out.println("comflict-bugra");
 	}
 
 }
